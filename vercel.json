@@ -1,0 +1,7 @@
+{
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "webAnalytics": {
+    "enabled": true
+  }
+}
